@@ -1,0 +1,15 @@
+{
+  "name": "@biberklatsche/helloworld",
+  "version": "0.0.3",
+  "description": "This is a HelloWorld Plugin for Cogno-Terminal.",
+  "keywords": [
+    "cogno-plugin"
+  ],
+  "author": "Lars Wolfram",
+  "license": "MIT",
+  "cogno": {
+    "label": "Hello World",
+    "regexp": "^hello\\s.*",
+    "icon": "🌍"
+  }
+}
